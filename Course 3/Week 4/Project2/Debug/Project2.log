@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 4\Project2\main.c(9,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 4\Project2\Debug\Project2.exe

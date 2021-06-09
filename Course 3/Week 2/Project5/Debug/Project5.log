@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 2\Project5\main.c(43,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 2\Project5\main.c(54,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project5.vcxproj -> C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 2\Project5\Debug\Project5.exe

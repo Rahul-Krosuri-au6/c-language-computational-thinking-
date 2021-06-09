@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 1\Project3\main.c(44,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 1\Project3\main.c(46,30): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 3\Week 1\Project3\Debug\Project3.exe

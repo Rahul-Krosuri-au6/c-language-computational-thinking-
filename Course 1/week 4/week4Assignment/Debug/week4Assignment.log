@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 1\week 4\week4Assignment\main.c(49,70): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 1\week 4\week4Assignment\main.c(50,70): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 1\week 4\week4Assignment\main.c(51,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 1\week 4\week4Assignment\main.c(52,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 1\week 4\week4Assignment\main.c(81,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 1\week 4\week4Assignment\main.c(85,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  week4Assignment.vcxproj -> C:\Users\kksr9\OneDrive\Documents\ct specialization\Course 1\week 4\week4Assignment\Debug\week4Assignment.exe
